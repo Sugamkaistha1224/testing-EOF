@@ -1,0 +1,3 @@
+# Include all files for deployment
+# Only ignore the old Logo folder since we moved files to root
+Logo/

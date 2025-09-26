@@ -1,0 +1,25 @@
+{
+  "name": "evenly-odd-films-website",
+  "version": "1.0.0",
+  "description": "Official website for Evenly Odd Films - Film production company",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "start": "echo 'Static site - no start required'"
+  },
+  "keywords": [
+    "film",
+    "production",
+    "cinema",
+    "video",
+    "commercial",
+    "ahmedabad"
+  ],
+  "author": "Evenly Odd Films",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TusharNag-Skull/EOF_WEB.git"
+  },
+  "homepage": "https://eof-web.vercel.app"
+}
